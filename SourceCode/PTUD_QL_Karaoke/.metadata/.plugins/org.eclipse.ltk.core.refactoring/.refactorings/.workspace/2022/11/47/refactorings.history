@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;PTUD_2021_Nhom4_DeTai4&apos; to &apos;PTUD_QL_Karaoke&apos;" description="Rename resource &apos;PTUD_2021_Nhom4_DeTai4&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/PTUD_2021_Nhom4_DeTai4" name="PTUD_QL_Karaoke" stamp="1668432244315" updateReferences="true"/>
+</session>
